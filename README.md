@@ -1,17 +1,14 @@
 # Boas vindas ao meu Portfólio! 
 
 Utilizado: 
-- JavaScript
+- ts
 - TailwindCSS
 - html
-- tsx
-- ts
+- js
+ 
+- Dependências: ```npm install```
 
-*Caso eu tenha esquecido de algo, me perdoe. Faça bom uso! 
-
-> Instalar as dependências: **npm install**
-
-> Run: **npm run dev**
+- Run: ```npm run dev```
 
 ---
 
