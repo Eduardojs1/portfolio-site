@@ -1,4 +1,4 @@
-# Boas vindas ao meu Portfólio! 
+# Boas vindas! 
 
 Utilizado: 
 - ts
