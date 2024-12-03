@@ -2,8 +2,8 @@
 
 Utilizado: 
 - ts
+- tsx
 - TailwindCSS
-- html
 - js
  
 ---
